@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/new/static/css/main.1779617f.chunk.css",
-    "main.js": "/new/static/js/main.ec23e87f.chunk.js",
-    "main.js.map": "/new/static/js/main.ec23e87f.chunk.js.map",
-    "runtime~main.js": "/new/static/js/runtime~main.dee46077.js",
-    "runtime~main.js.map": "/new/static/js/runtime~main.dee46077.js.map",
-    "static/css/2.f465542e.chunk.css": "/new/static/css/2.f465542e.chunk.css",
-    "static/js/2.e86a0f67.chunk.js": "/new/static/js/2.e86a0f67.chunk.js",
-    "static/js/2.e86a0f67.chunk.js.map": "/new/static/js/2.e86a0f67.chunk.js.map",
-    "index.html": "/new/index.html",
-    "precache-manifest.a5c2d88990022bfaea8c2d04cd8b1a05.js": "/new/precache-manifest.a5c2d88990022bfaea8c2d04cd8b1a05.js",
-    "service-worker.js": "/new/service-worker.js",
-    "static/css/2.f465542e.chunk.css.map": "/new/static/css/2.f465542e.chunk.css.map",
-    "static/css/main.1779617f.chunk.css.map": "/new/static/css/main.1779617f.chunk.css.map",
-    "static/media/banner.png": "/new/static/media/banner.1a38c79b.png",
-    "static/media/img1.png": "/new/static/media/img1.d8e6866e.png"
+    "main.css": "/plexusmd/static/css/main.1779617f.chunk.css",
+    "main.js": "/plexusmd/static/js/main.a5423eea.chunk.js",
+    "main.js.map": "/plexusmd/static/js/main.a5423eea.chunk.js.map",
+    "runtime~main.js": "/plexusmd/static/js/runtime~main.9eeddf9a.js",
+    "runtime~main.js.map": "/plexusmd/static/js/runtime~main.9eeddf9a.js.map",
+    "static/css/2.f465542e.chunk.css": "/plexusmd/static/css/2.f465542e.chunk.css",
+    "static/js/2.4d84154e.chunk.js": "/plexusmd/static/js/2.4d84154e.chunk.js",
+    "static/js/2.4d84154e.chunk.js.map": "/plexusmd/static/js/2.4d84154e.chunk.js.map",
+    "index.html": "/plexusmd/index.html",
+    "precache-manifest.c595bf844430c4659ccb994993438333.js": "/plexusmd/precache-manifest.c595bf844430c4659ccb994993438333.js",
+    "service-worker.js": "/plexusmd/service-worker.js",
+    "static/css/2.f465542e.chunk.css.map": "/plexusmd/static/css/2.f465542e.chunk.css.map",
+    "static/css/main.1779617f.chunk.css.map": "/plexusmd/static/css/main.1779617f.chunk.css.map",
+    "static/media/banner.png": "/plexusmd/static/media/banner.1a38c79b.png",
+    "static/media/img1.png": "/plexusmd/static/media/img1.d8e6866e.png"
   }
 }
